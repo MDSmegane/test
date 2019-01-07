@@ -3,3 +3,5 @@ Joyeux noel !
 Deuxieme essai pour vérifier que je sais envoyer :D
 et mercé le sang
 Moi je le modifie comme ça et c'est Mégane qui la fait ! PAN !
+
+Correction du bug
