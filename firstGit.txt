@@ -2,10 +2,9 @@
 Joyeux noel !
 Deuxieme essai pour vérifier que je sais envoyer :D
 et mercé le sang
-Bonsoir
 Moi je le modifie comme ça et c'est Mégane qui la fait ! PAN !
+Bonsoir
 
-correction du bug
-nouvelle branche
+Correction du bug
 
-fin creation nouvelle fonctionnalite
+Nouvelle fonctionnalite
