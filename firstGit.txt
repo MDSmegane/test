@@ -7,3 +7,5 @@ Moi je le modifie comme ça et c'est Mégane qui la fait ! PAN !
 Bonsoir
 
 Correction du bug
+
+Nouvelle fonctionnalite
