@@ -2,8 +2,5 @@
 Joyeux noel !
 Deuxieme essai pour vérifier que je sais envoyer :D
 et mercé le sang
-<<<<<<< HEAD
 Bonsoir
-=======
 Moi je le modifie comme ça et c'est Mégane qui la fait ! PAN !
->>>>>>> dcb789891b3f70df4ef7f8e20d210c10431bfa07
